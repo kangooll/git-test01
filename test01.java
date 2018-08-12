@@ -1,4 +1,4 @@
-test-kangooll
+mngerge confictsBBBBBBBBBBBBB kangooll2017
 AAAAAAAAAAAAAAAAAAAbbbbbbbbbbbb
 CCCCCCCCCCCCCCCCCCCCCCCCC
 test_ssh免密登录
