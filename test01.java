@@ -1,3 +1,3 @@
-merge conficts
+mngerge confictsBBBBBBBBBBBBB kangooll2017
 AAAAAAAAAAAAAAAAAAAbbbbbbbbbbbb
 CCCCCCCCCCCCCCCCCCCCCCCCC
